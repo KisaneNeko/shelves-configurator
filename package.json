@@ -21,6 +21,9 @@
     "react-dom": "^18.2.0",
     "react-konva": "^18.2.10"
   },
+  "engines": {
+    "node": ">=22"
+  },
   "devDependencies": {
     "@chromatic-com/storybook": "^1.2.23",
     "@storybook/addon-essentials": "^8.0.1",
