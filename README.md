@@ -1,5 +1,7 @@
 # Shelves Configurator
 
+[LIVE VERSION](https://shelf-config.vercel.app/)
+
 ## Project overview
 
 A React component for store labelers to categorize and configure shelves on a canvas.
