@@ -1,12 +1,11 @@
-# Focal challenge
-
-See demo [here](https://focal-challenge-phi.vercel.app/).
+# Shelves Configurator
 
 ## Project overview
 
-This is a challenge developed for Focal-systems. The objective was to implement a React Component for the store labelers to categorize shelves.
+A React component for store labelers to categorize and configure shelves on a canvas.
 
 ## Technologies
+
 The project is built with Vite, using React and Typescript. Tests are written in Vitest + testing-library. Project is hosted on Vercel, and has Storybook allowing modifications of props in the UI for demo purposes.
 
 ## Running and developing project
